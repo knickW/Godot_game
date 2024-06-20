@@ -5,7 +5,7 @@ Movement: mouse
 Enemies are following player
 ## Problems:
 Can't make signal work.
-Enemies can play animation of attack but cannot hit player (signal are not being sent an error ocuered)
+Enemies can play animation of attack but cannot hit player (signal are not being sent an error occured)
 
 ##Plans:
 Make more different enemies (the system of easy creation of enemies is implemented in godot using tools and public variables but it is not actualy been used)
